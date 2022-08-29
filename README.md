@@ -39,6 +39,8 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 ```bash
 # Clone this repository
 $ git https://github.com/TrunqKj3n/Kaguya_Telegram_Bot
+# Settings
+$ Fill in the bot token in the config.json file. 
 # Install dependencies
 $ npm install
 # Run the app
