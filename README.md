@@ -36,13 +36,21 @@
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
-```txt
 # Clone this repository
-$ git https://github.com/TrunqKj3n/Kaguya_Telegram_Bot
+```
+git clone https://github.com/TrunqKj3n/Kaguya_Telegram_Bot
+```
 # Settings
-$ Fill in the bot token in the config.json file. 
+```
+Fill in the bot token in the config.json file.
+```
+
 # Install dependencies
-$ npm install
+```
+npm install
+```
+
 # Run the app
-$ npm start
+```
+npm start
 ```
