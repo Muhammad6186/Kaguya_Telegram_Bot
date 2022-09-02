@@ -6,7 +6,6 @@ const TelegramBot = require("node-telegram-bot-api"),
 require("./lib/handleCommand.js")(bot);
 const express = require("express"),
       cors = require("cors");
-var cron = require("node-cron");
 const chalk = require("chalk");
 var axios = require("axios");
 console.clear(), console.log(chalk.green("[ BOT ] : ") + chalk.white("Bot đã khởi động!")), console.log(chalk.green("[ AUTHOR ] : ") + chalk.white("Thiệu Trung Kiên")), console.log(chalk.green("[ EMAIL ] : ") + chalk.white("ttk.trungkien333@gmail.com")), console.log(chalk.green("[ GITHUB ] : ") + chalk.white("TrunqKj3n")), console.log(chalk.green("[ TELEGRAM ] : ") + chalk.white("@thieutrungkien")), console.log(chalk.green("[ FACEBOOK ] : ") + chalk.white("https://www.facebook.com/ThieuTrungKien.Profile")), console.log(chalk.white("-----------------------------------------------------\n"));
